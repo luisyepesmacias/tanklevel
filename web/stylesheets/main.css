@@ -1,5 +1,5 @@
 .jumbotron {
-  background: aquamarine;
+  background: image(web/images/backgroung.png);
   color: white;
   padding-bottom: 80px;
 }
