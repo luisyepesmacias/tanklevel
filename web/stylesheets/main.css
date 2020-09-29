@@ -1,7 +1,10 @@
 .jumbotron {
-  background: image(web/images/backgroung.png);
-  color: white;
-  padding-bottom: 80px;
+  background: url(images/background.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
 }
 .jumbotron .btn-primary {
   background: #845ac7;
